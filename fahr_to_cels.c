@@ -7,7 +7,7 @@ main()
 	upper=300;
 	step=20;
 	fahr=lower;
-	printf("Fahr\tCels");
+	printf("Fahr\tCels\n");
 	while(fahr<=upper)
 	{
 		cels=(fahr-32)*5/9.0;
